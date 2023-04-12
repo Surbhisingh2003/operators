@@ -1,0 +1,8 @@
+import java.util.*;
+public class subtract{
+public static void main(String args[])[
+int A = 20;
+int B = 10;
+System.out.println("subtract=" +(A-B));
+}
+}
